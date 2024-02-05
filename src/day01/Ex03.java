@@ -8,11 +8,12 @@ public class Ex03 {
 		System.out.println("100"+200);
 		System.out.println("안녕"+100+100);
 		System.out.println("안녕"+(100+100));
+		System.out.println("안녕"+(100+100));
 		
 		System.out.println("=====================");
-		System.out.println("이름\t나이\t전화번호\t회비);
 		System.out.println("=====================");
-		System.out.println("홍길동"\t15);
-		
+		System.out.println("=====================");
+		System.out.println("=====================");
+	
 	}
 }
